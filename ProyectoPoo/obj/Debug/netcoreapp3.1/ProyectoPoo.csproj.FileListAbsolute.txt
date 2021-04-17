@@ -1,0 +1,13 @@
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\bin\Debug\netcoreapp3.1\ProyectoPoo.exe
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\bin\Debug\netcoreapp3.1\ProyectoPoo.deps.json
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\bin\Debug\netcoreapp3.1\ProyectoPoo.runtimeconfig.json
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\bin\Debug\netcoreapp3.1\ProyectoPoo.runtimeconfig.dev.json
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\bin\Debug\netcoreapp3.1\ProyectoPoo.dll
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\bin\Debug\netcoreapp3.1\ProyectoPoo.pdb
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\obj\Debug\netcoreapp3.1\ProyectoPoo.csprojAssemblyReference.cache
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\obj\Debug\netcoreapp3.1\ProyectoPoo.AssemblyInfoInputs.cache
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\obj\Debug\netcoreapp3.1\ProyectoPoo.AssemblyInfo.cs
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\obj\Debug\netcoreapp3.1\ProyectoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\obj\Debug\netcoreapp3.1\ProyectoPoo.dll
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\obj\Debug\netcoreapp3.1\ProyectoPoo.pdb
+C:\Users\Ramiro\source\repos\ProyectoPoo\ProyectoPoo\obj\Debug\netcoreapp3.1\ProyectoPoo.genruntimeconfig.cache
